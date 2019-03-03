@@ -3,4 +3,4 @@
 Output would be:
 <br>
 <p align="left">
-<img src="images/slide-up-animation.gif" width="200"/> 
+<img src="Images/slide-up-animation.gif" width="200"/> 
